@@ -1,0 +1,49 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    background: url(../imagens/background.jpg) no-repeat center center;
+    background-size: cover;
+  }
+  
+  h1 {
+    color: lightgoldenrodyellow;
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 0px;
+  }
+  
+  h2 {
+    color: lightgoldenrodyellow;
+    text-align: right;
+  }
+  
+  p {
+    font-size: 24px;
+    text-align: right;
+    color: lightgoldenrodyellow;
+  }
+  
+  img {
+    width: 20%;
+    border-radius: 3px;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+  }
+  
+  ul {
+    text-align: right;
+    list-style: none;
+  }
+  
+  li {
+    font-size: 24px;
+    display: inline;
+    padding-right: 45px;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  .profile {
+    text-align: right;
+  }
